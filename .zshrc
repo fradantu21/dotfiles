@@ -17,4 +17,4 @@ eval "$(starship init zsh)"
 alias ls='eza -al'
 alias v='nvim'
 alias tmux='tmux -u'
-alias btop='btop --utf-force'
+alias btop='btop'
