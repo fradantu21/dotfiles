@@ -12,7 +12,7 @@ $line_break\
 $character"""
 
 palette = 'catppuccin_mocha'
-add_newline=false
+add_newline = false
 
 [os]
 disabled = false
@@ -38,6 +38,7 @@ CentOS = ""
 Debian = "󰣚"
 Redhat = "󱄛"
 RedHatEnterprise = "󱄛"
+CachyOS = "󰣇"
 
 [username]
 show_always = true
