@@ -130,3 +130,6 @@ alias ls='eza -al'
 alias v='nvim'
 alias tmux='tmux -u'
 alias btop='btop --utf-force'
+
+# opencode
+export PATH=/home/fradantu21/.opencode/bin:$PATH
