@@ -21,3 +21,4 @@ alias btop='btop'
 
 # opencode
 export PATH=/home/fradantu21/.opencode/bin:$PATH
+unsetopt PROMPT_SP
