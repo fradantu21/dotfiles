@@ -24,4 +24,5 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # opencode
 export PATH=/home/fradantu21/.opencode/bin:$PATH
+export PATH=/opt/cuda/bin:$PATH
 unsetopt PROMPT_SP
